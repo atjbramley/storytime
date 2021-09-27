@@ -1,0 +1,7 @@
+Wenlock: alien
+
+Still object: cactus
+
+Being 1: monkey/ape
+
+Being 2: monkey/ape
