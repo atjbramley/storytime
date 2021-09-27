@@ -1,0 +1,5 @@
+Greetings Earthlings
+
+This is Chi's attempt on the Git adding, commiting etc.
+
+With the plot, there will be an alien that visits from another planet. However this alien and has taken cat form for observational purposes.
